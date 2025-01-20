@@ -6,6 +6,7 @@
 - Thiago Jefferson Nonato
 
 ## 🔨 Descrição do projeto
+Projeto web inovador desenvolvido para otimizar o processo de busca e reserva de vagas no estacionamento, proporcionando mais conveniência e agilidade para os usuários.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 - ``JavaScript``
